@@ -34,3 +34,6 @@ if __name__ == '__main__':
     key = token
     rd = '7e43CAC0hDfy'
     data = token + fp + st + ai + rd
+    """
+        常规加密......可私我....
+    """
